@@ -1,4 +1,4 @@
-# Contains two Codeinstitute challenges designed to explore the CSS Transition Property
+# Contains two Codeinstitute challenges designed to explore the CSS hover pseudo-class
 
 <br>
 
